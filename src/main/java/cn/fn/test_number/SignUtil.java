@@ -1,4 +1,4 @@
-package cn.fn;
+package cn.fn.test_number;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
